@@ -1,5 +1,8 @@
-# my-game
-it's game where you jump over enemies and try to survive as long as possible.
+# Spidey
+it's game where you jump over enemies and try to survive as long as possible. This is an infinite game so there is no ending
+
+# Inspiration
+it is inspired from the chrome dino game.
 
 ## How to play
 There will be enemies coming across your screen you should jump over them.
